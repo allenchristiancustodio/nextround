@@ -1,5 +1,7 @@
 # 🤖 NEXTROUND (AI Mock Interview Platform)
 
+[Live Demo 🚀](https://nextround.vercel.app/)
+
 A real-time, voice-based mock interview app powered by Vapi and Gemini. Built with Next.js and Firebase, this project simulates a realistic interview environment and provides AI-generated feedback on communication, technical knowledge, and problem-solving skills.
 
 ---
