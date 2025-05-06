@@ -36,11 +36,11 @@ async function Home() {
         </div>
 
         <Image
-          src="/robot.png"
+          src="/robot.jpg"
           alt="robo-dude"
           width={400}
           height={400}
-          className="max-sm:hidden"
+          className="rounded-2xl shadow-xl border-4 border-gray-800 max-sm:hidden"
         />
       </section>
 
